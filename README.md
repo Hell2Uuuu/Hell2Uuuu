@@ -20,5 +20,5 @@ Pipeline de ETL em Python e Dashboard no Power BI analisando 20 anos de performa
 
 
 ## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/robert-barbosa-302817300)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/robert-barbosa-302817300](https://www.linkedin.com/in/robert-barbosa-302817300/?trk=public-profile-join-page))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hell2Uuuu)
