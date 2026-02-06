@@ -4,8 +4,6 @@ Estudante do 4º período de **Sistemas de Informação** em Belo Horizonte, MG.
 
 ## 🚀 Sobre Mim
 * 🎓 Atualmente mergulhado em Engenharia de Software e Análise de Dados.
-* 🐔 Torcedor fanático do Clube Atlético Mineiro e analista das estatísticas do Galo nas horas vagas.
-* 🕹️ Nas horas vagas, explorando mecânicas de Fighting Games como Dark Souls e KOF.
 
 ## 🛠️ Toolbox (Minhas Ferramentas)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
